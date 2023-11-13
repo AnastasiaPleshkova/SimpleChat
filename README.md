@@ -1,1 +1,2 @@
 # SimpleChat
+Simple chat app!
