@@ -1,2 +1,2 @@
 # SimpleChat
-Simple chat app! It
+Simple chat app! It is
